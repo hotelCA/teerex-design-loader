@@ -1,2 +1,2 @@
 # teerex-design-loader
-Loading pending designs.
+Loading pending designs..
